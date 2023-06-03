@@ -150,7 +150,7 @@ int vec_milti(int* a,int lenth, int*b) {
 
 从图中可以看到，分块后的算法在进行大规模的矩阵运算时相比分块前的算法有了较大优化，但是与numpy实现还是有较大差距。
 
-![]([.\figure\Figure_1.png](https://github.com/hellowoe23/-/blob/main/figure/Figure_1.png))
+![](https://github.com/hellowoe23/-/blob/main/figure/Figure_1.png)
 
 ## 仍可以努力的点
 
